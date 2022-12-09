@@ -5,12 +5,12 @@ From: 20 March 2022 - To: 08 December 2022
 
 Total Time: 92 hrs 45 mins
 
-PHP              46 hrs 42 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.34 %
-Blade Template   21 hrs 23 mins  ⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.06 %
-C#               6 hrs 44 mins   ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.26 %
-JavaScript       5 hrs 28 mins   ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.91 %
-CSHTML           4 hrs 21 mins   ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.69 %
-Other            2 hrs 51 mins   ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.08 %
+PHP              46 hrs 42 mins  ████████████▓░░░░░░░░░░░░   50.34 %
+Blade Template   21 hrs 23 mins  █████▓░░░░░░░░░░░░░░░░░░░   23.06 %
+C#               6 hrs 44 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
+JavaScript       5 hrs 28 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.91 %
+CSHTML           4 hrs 21 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
+Other            2 hrs 51 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
 ```
 
 <!--END_SECTION:waka-->
