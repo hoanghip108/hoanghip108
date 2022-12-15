@@ -1,16 +1,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 March 2022 - To: 12 December 2022
+From: 20 March 2022 - To: 13 December 2022
 
-Total Time: 100 hrs 5 mins
+Total Time: 104 hrs 21 mins
 
-PHP              46 hrs 42 mins  ███████████▓░░░░░░░░░░░░░   46.66 %
-Blade Template   21 hrs 23 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.38 %
-JavaScript       10 hrs 20 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 %
-C#               6 hrs 54 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
-CSHTML           4 hrs 21 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
-Other            2 hrs 51 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+PHP              46 hrs 42 mins  ███████████▒░░░░░░░░░░░░░   44.75 %
+Blade Template   21 hrs 23 mins  █████░░░░░░░░░░░░░░░░░░░░   20.50 %
+C#               11 hrs 1 min    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
+JavaScript       10 hrs 21 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 %
+CSHTML           4 hrs 21 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
+Other            2 hrs 59 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
 ```
 
 <!--END_SECTION:waka-->
