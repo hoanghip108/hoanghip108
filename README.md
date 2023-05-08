@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 March 2022 - To: 05 May 2023
+From: 20 March 2022 - To: 06 May 2023
 
-Total Time: 340 hrs 2 mins
+Total Time: 340 hrs 54 mins
 
-JavaScript       117 hrs 55 mins ████████▓░░░░░░░░░░░░░░░░   34.68 %
-C#               98 hrs 38 mins  ███████▒░░░░░░░░░░░░░░░░░   29.01 %
-PHP              46 hrs 44 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.75 %
-Blade Template   21 hrs 38 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
-Python           13 hrs 56 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
+JavaScript       118 hrs 34 mins ████████▓░░░░░░░░░░░░░░░░   34.78 %
+C#               98 hrs 38 mins  ███████▒░░░░░░░░░░░░░░░░░   28.94 %
+PHP              46 hrs 44 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.71 %
+Blade Template   21 hrs 38 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+Python           13 hrs 56 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
 ```
 
 <!--END_SECTION:waka-->
