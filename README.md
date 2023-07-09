@@ -11,7 +11,15 @@ PHP              46 hrs 44 mins  ███░░░░░░░░░░░░�
 Blade Template   21 hrs 38 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
 Python           13 hrs 56 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
 ```
-
+<img
+  src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg"
+  alt="Alternative Text"
+/>
+Example:
+<img
+  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
 <!--END_SECTION:waka-->
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=c00zprrvy9xiloa9qnco3hmng&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=c00zprrvy9xiloa9qnco3hmng&redirect=true)
 
