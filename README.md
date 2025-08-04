@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 March 2022 - To: 01 August 2025
+From: 20 March 2022 - To: 02 August 2025
 
-Total Time: 3,233 hrs 3 mins
+Total Time: 3,233 hrs 17 mins
 
-TypeScript                 2,074 hrs 23 mins████████████████░░░░░░░░░   64.16 %
+TypeScript                 2,074 hrs 37 mins████████████████░░░░░░░░░   64.16 %
 JavaScript                 455 hrs 25 mins ███▓░░░░░░░░░░░░░░░░░░░░░   14.09 %
 JSON                       120 hrs 50 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
 Bash                       116 hrs 46 mins █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
